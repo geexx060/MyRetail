@@ -1,24 +1,26 @@
-#myRetail RESTful Service
-	This is an exercice to create an end-to-end Proof-of-Concept for a products API.  Original document included. This solution covers problem one.
+# myRetail RESTful Service
+
+This is an exercice to create an end-to-end Proof-of-Concept for a products API.  Original document included. This solution covers problem one.
 
 	
 ### Prerequisites
 
-Install: Gradle - https://gradle.org/install/
-		 MangoDB - https://www.mongodb.com/download-center
-		 Java 1.8 (older version probably work) - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-		 Postman (recommended) - https://www.getpostman.com/downloads/
+Install: 
+
+Gradle - https://gradle.org/install/
+MangoDB - https://www.mongodb.com/download-center
+Java 1.8 (older version probably work) - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Postman (recommended) - https://www.getpostman.com/downloads/
 		 
-		 *App only tested on Windows
+*App only tested on Windows
 
 
 ### Installing
 
-Setup Project
 
-	1. Unzip and open the project in your preferred editor
-	2. Build project; can be done from terminal in project directory with command "gradle build"
-	3. Run the project from your editor or from the terminal with command "java -jar build/libs/my-retail-0.0.1-SNAPSHOT.jar"
+1. Unzip and open the project in your preferred editor
+2. Build project; can be done from terminal in project directory with command "gradle build"
+3. Run the project from your editor or from the terminal with command "java -jar build/libs/my-retail-0.0.1-SNAPSHOT.jar"
 
 	
 ## Using the App
